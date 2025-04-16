@@ -1,7 +1,5 @@
 # DemandForecastingBenchmarks
 
-# DemandForecastingBenchmarks
-
 ## Overview
 
 **DemandForecastingBenchmarks** is a machine learning project that predicts **weekly sales** using deep learning and ensemble techniques. Built on a real-world e-commerce dataset spanning **2022 to 2024**, this project applies rigorous preprocessing and a comparative study of advanced models including:
