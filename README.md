@@ -123,9 +123,10 @@ The objective is to **forecast future weekly sales** of various sellers and bran
 
 ## Acknowledgements
 
-Special thanks to Zhanna Latypova, my teammate, for the preprocessing efforts and project collaboration.
+Special thanks to [Zhanna Latypova](https://github.com/ZhannaUp), my teammate, for the preprocessing efforts and project collaboration.
 
 ---
+
 
 ## License
 
